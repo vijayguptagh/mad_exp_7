@@ -133,6 +133,7 @@ class _ProfileState extends State<Profile> {
                           )
                   ],
                 ),
+                //comments-for center alignment
                 Center(
                   child: ElevatedButton(
                     style: ElevatedButton.styleFrom(
